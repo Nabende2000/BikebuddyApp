@@ -1,8 +1,8 @@
-#BikeBuddy App
+# BikeBuddy App <br>
 BikebuddyApp is an Android-based mobile application that connects users with trusted mechanics for on-demand bike repair and maintenance services. Whether you're stuck on the roadside or need regular servicing, Bikebuddy makes it easy to locate, book, and review mechanics in your area. The app is designed to streamline service delivery for bike owners while creating job opportunities for skilled mechanics.<br>
 
 
-##>**🚀 Key Features** <br>
+## **🚀 Key Features** <br>
 Mechanic On-Demand: Request a mechanic instantly based on your location and issue.
 
   1. Location Tracking: Uses GPS to pinpoint your current location and display available mechanics nearby.
@@ -14,23 +14,23 @@ Mechanic On-Demand: Request a mechanic instantly based on your location and issu
   4. Ratings & Reviews: Rate mechanics based on your experience to help others choose quality service.
   5.  Mechanic Dashboard: Mechanics can manage appointments, update service status, and track earnings.
 
-##**🛠️ Technologies Used**
+## **🛠️ Technologies Used**
   1. Frontend: Java/Kotlin (Android SDK)
   2. Backend: Firebase / REST API
   3. Maps & Location: Google Maps API
   4. Notifications: Firebase Cloud Messaging (FCM)
   5. Authentication: Firebase Auth / OTP Verification.
 
-##**Image Assets Designed with/ Obtained from:**
+## **Image Assets Designed with/ Obtained from:**
   * Adobe Photoshop
   * Adobe Illustrator
   * Flaticon
   * Lordicon Lottie
 
-##Developer(s) Contact(s)
+## Developer(s) Contact(s)
 1. fahadnabende@gmail.com
 
-##**📷 Screenshots (Sample)**
+## **📷 Screenshots (Sample)**
 #<H2>FOR NORMAL USER</H2>
 
 <p align="center">
