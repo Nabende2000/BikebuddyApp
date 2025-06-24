@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-06-21 at 18 35 27 (1)](https://github.com/user-attachments/assets/825cbd7b-819d-4d90-86e3-514269c91aba)# BikebuddyApp
+#BikeBuddy App
 BikebuddyApp is an Android-based mobile application that connects users with trusted mechanics for on-demand bike repair and maintenance services. Whether you're stuck on the roadside or need regular servicing, Bikebuddy makes it easy to locate, book, and review mechanics in your area. The app is designed to streamline service delivery for bike owners while creating job opportunities for skilled mechanics.<br>
 
 
