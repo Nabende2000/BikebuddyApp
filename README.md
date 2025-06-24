@@ -43,6 +43,15 @@ Mechanic On-Demand: Request a mechanic instantly based on your location and issu
   <img src="https://github.com/user-attachments/assets/237cfdc7-461b-48b8-91b7-70549e2e3acd" width="200"/>
   <img src="https://github.com/user-attachments/assets/aeb909e9-7289-45f6-af22-7991c0f8f7cf" width="200"/>
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8e0ad043-39d6-4091-9ec7-3ba720d7f993" width="200"/>
+  <img src="https://github.com/user-attachments/assets/8ac88a2b-520d-4b1a-8c75-d1953b7594cd" width="200"/>
+  <img src="https://github.com/user-attachments/assets/2b438a2c-e53b-445a-b2b8-4ba33642f792" width="200"/>
+  <img src="https://github.com/user-attachments/assets/84d14ff2-cc23-47f4-b49a-bf6b8034fc53" width="200"/>
+</p>
+
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6bb68f59-b375-4b04-b311-ca3d15c73a92" width="200"/>
   <img src="https://github.com/user-attachments/assets/3e79cc8d-9e52-45e7-841e-2d951cfad4d2" width="200"/>
